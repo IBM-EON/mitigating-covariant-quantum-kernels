@@ -1,0 +1,7 @@
+,score_type,score_value
+0,untrained_qka_train,0.7666666666666666
+1,untrained_qka_test,0.6666666666666666
+2,trained_qka_train,0.7666666666666666
+3,trained_qka_test,0.8666666666666667
+4,svc_train,0.8
+5,svc_test,0.8
